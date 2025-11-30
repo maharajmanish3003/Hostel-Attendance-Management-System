@@ -91,3 +91,8 @@ If student ID matches:
 If status = P → increment present
 Else increment absent
 Display student name
+
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bc0bf966-47a0-47f6-9b14-0095004da2b2" />
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e3376b24-1f05-44dc-9315-c49c40282dc9" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/87266190-e495-4704-813e-9bb6e46a3868" />
+
